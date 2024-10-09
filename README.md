@@ -1,4 +1,4 @@
-## zapret_build
+## НОВЫЙ ПРОСТОЙ СПОСОБ ОБХОДА БЛОКИРОВКИ YOUTUBE и DISCORD
 
 Моя личная сборка на основе утилиты zapret-master
 
